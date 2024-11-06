@@ -1,0 +1,4 @@
+opencv-python
+mtcnn
+facenet-pytorch
+face_recognition
